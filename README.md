@@ -2,7 +2,7 @@
 Sample docker project with nodejs and nginx. <br />
 
 How its works:<br />
-This repo is to dockerize nodejs app with nginx as a proxy, will have 3 instances of node server as a container.<br />
+This repo is to dockerize nodejs app with nginx as a Reverse Proxy & Load Balancer with NGINX, will have 3 instances of node server as a container.<br />
 
 Steps:<br />
 1- Downlod Docker desktop.<br />
